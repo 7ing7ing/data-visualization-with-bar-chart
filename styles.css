@@ -1,0 +1,28 @@
+body {
+  background-color: #e8d0b3;
+  font-family: "Open Sans", sans-serif;
+  color: #e05d5d;
+}
+
+#title {
+  text-align: center;
+  font-size: x-large;
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+svg {
+  background-color: #fff8e5;
+  display: block;
+  margin: auto;
+}
+
+#tooltip {
+  padding: 4px;
+  background: #c8c6c6;
+  border: 0px;
+  border-radius: 8px;
+}
+
+.bar:hover {
+  fill: #e05d5d;
+}
